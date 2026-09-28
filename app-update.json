@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "productName": "MSGK式単語帳",
+  "releaseChannel": "beta",
+  "productPage": "https://example.com",
+  "windows": {
+    "latestVersion": "0.1.0",
+    "releaseDate": "2026-09-28",
+    "releaseNotes": [
+      "β版を公開しました"
+    ]
+  },
+  "android": {
+    "latestVersion": "0.1.0",
+    "releaseDate": "2026-09-28",
+    "releaseNotes": [
+      "β版を公開しました"
+    ]
+  }
+}
